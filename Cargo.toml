@@ -1,0 +1,7 @@
+[package]
+name = "rmirror"
+version = "0.1.0"
+authors = ["Jose Silva <me@jsi1v4.dev>"]
+edition = "2018"
+
+[dependencies]
